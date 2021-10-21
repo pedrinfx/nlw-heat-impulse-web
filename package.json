@@ -1,6 +1,6 @@
 {
-  "name": "web",
-  "version": "0.0.0",
+  "name": "nlw-heat-impulse-node",
+  "version": "1.0.0",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
